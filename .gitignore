@@ -1,6 +1,6 @@
 *~
 *.pyc
 *.pyo
-*.egginfo
+*.egg-info
 build
 temp
