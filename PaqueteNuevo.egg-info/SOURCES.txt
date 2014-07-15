@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+PaqueteNuevo.egg-info/PKG-INFO
+PaqueteNuevo.egg-info/SOURCES.txt
+PaqueteNuevo.egg-info/dependency_links.txt
+PaqueteNuevo.egg-info/entry_points.txt
+PaqueteNuevo.egg-info/not-zip-safe
+PaqueteNuevo.egg-info/top_level.txt
+paquetenuevo/__init__.py
+paquetenuevo/main.py
